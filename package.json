@@ -1,0 +1,13 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.49.4",
+    "axios": "^1.8.4",
+    "discord.js": "^14.18.0",
+    "dotenv": "^16.5.0",
+    "f": "^1.4.0",
+    "groq-sdk": "^0.19.0",
+    "obscenity": "^0.4.3",
+    "openai": "^4.95.0"
+  }
+}
